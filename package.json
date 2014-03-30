@@ -1,7 +1,7 @@
 {
   "name" : "angular-timezones",
   "description" : "Timezones for AngularJS",
-  "version" : "0.3.8",
+  "version" : "0.3.9",
   "homepage" : "https://github.com/michaelahlers/angular-timezones",
   "author" : {
     "name" : "Michael Ahlers",

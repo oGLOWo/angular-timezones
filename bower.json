@@ -1,6 +1,6 @@
 {
   "name" : "angular-timezones",
-  "version" : "0.3.8",
+  "version" : "0.3.9",
 
   "main" : "js/angular-timezones.js",
 
@@ -19,6 +19,6 @@
     "angular" : "latest",
     "jquery" : "latest",
     "angular-filters" : "latest",
-    "timezone-js" : "git@github.com:mde/timezone-js.git#v0.4.4"
+    "timezone-js" : "~0.4.7"
   }
 }
