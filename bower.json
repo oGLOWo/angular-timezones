@@ -19,6 +19,6 @@
     "angular" : "latest",
     "jquery" : "latest",
     "angular-filters" : "latest",
-    "timezone-js" : "~0.4.7"
+    "timezone-js" : "<1"
   }
 }
