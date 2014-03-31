@@ -19,6 +19,6 @@
     "angular" : "latest",
     "jquery" : "latest",
     "angular-filters" : "git@github.com:oGLOWo/angular-filters.git#1.1.1",
-    "timezone-js" : "~0.4.7"
+    "timezone-js" : "<1"
   }
 }
