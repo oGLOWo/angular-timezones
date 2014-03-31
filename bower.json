@@ -18,7 +18,7 @@
   "dependencies" : {
     "angular" : "latest",
     "jquery" : "latest",
-    "angular-filters" : "latest",
+    "angular-filters" : "git@github.com:oGLOWo/angular-filters.git#1.1.1",
     "timezone-js" : "~0.4.7"
   }
 }
